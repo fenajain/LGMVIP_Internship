@@ -22,6 +22,6 @@ The repository contains several key components:
 
 5. Resources: Supplementary resources, such as relevant research papers, external libraries, or useful documentation, are stored in this section. These resources provide additional context and background information related to the internship task.
 
--This repository serves as a comprehensive collection of all the work completed during the virtual internship task. 
--It provides a platform for showcasing skills, documenting progress, collaborating with others, and receiving valuable feedback. 
--By organizing and centralizing project-related files and resources, this repository becomes a valuable asset for both personal growth and future reference.
+- This repository serves as a comprehensive collection of all the work completed during the virtual internship task. 
+- It provides a platform for showcasing skills, documenting progress, collaborating with others, and receiving valuable feedback. 
+- By organizing and centralizing project-related files and resources, this repository becomes a valuable asset for both personal growth and future reference.
