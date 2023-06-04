@@ -3,6 +3,7 @@
 Repository Introduction: Internship Task 
 
 *Welcome to the repository for completing the internship task!* 
+
 This repository has been created to fulfill the requirements of a virtual internship and showcase the work completed during the internship period. 
 Here, you will find a collection of code, documentation, and resources related to the assigned task.
 
