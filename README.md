@@ -12,6 +12,6 @@ The dataset used in this project contains measurements of sepal length, sepal wi
 
 ## Project Structure: 
 The project repository is organized as follows: 
-data/: This directory contains the dataset used for training and evaluation. The dataset file is named Iris_Dataset. 
-code/: This code directory contains Jupyter notebooks with the code used for data exploration, preprocessing, model training, and evaluation.
-README.md: This file provides an overview of the project and instructions for usage.
+- data/: This directory contains the dataset used for training and evaluation. The dataset file is named Iris_Dataset. 
+- code/: This code directory contains Jupyter notebooks with the code used for data exploration, preprocessing, model training, and evaluation.
+- README.md: This file provides an overview of the project and instructions for usage.
