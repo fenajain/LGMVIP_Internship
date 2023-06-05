@@ -1,6 +1,6 @@
 # **Stock Market Prediction and Forecasting using LSTM**
 
-*Welcome to the Stock Market Prediction and Forecasting using LSTM project! *
+*Welcome to the Stock Market Prediction and Forecasting using LSTM project!*
 
 This repository aims to provide a comprehensive solution for predicting and forecasting stock market trends using Long Short-Term Memory (LSTM) models.
 
