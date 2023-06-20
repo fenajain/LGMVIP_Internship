@@ -3,7 +3,7 @@
 
 ## **Introducing Applying Sketch Filter to an Image**
 
-*Are you interested in transforming your images into captivating sketches? Look no further!*
+*Are you interested in transforming your images into captivating sketches? Look no further...!*
 
 This repository provides a simple and efficient method for applying a sketch filter to an image using Python. 
 
