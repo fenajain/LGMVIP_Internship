@@ -13,6 +13,8 @@ This repository is a perfect resource for anyone interested in exploring the art
 
 *Unleash your creativity and give your images a unique and captivating twist with this sketch filter implementation.*
 
+
+
 ## Objective
 - In this methodology, we will explore how to apply a sketch filter to an image using the power of computer vision and image processing. By following the code provided, you'll be able to effortlessly convert any image into a sketch-like representation.
 
