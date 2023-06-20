@@ -21,4 +21,4 @@ The `cv2` package, also known as OpenCV, provides a comprehensive set of tools f
 
 - With this methodology, you'll be able to explore the artistic possibilities of applying sketch filters to your images. 
 
-Let your creativity flow as you reimagine your photos in a mesmerizing new form!
+*Let your creativity flow as you reimagine your photos in a mesmerizing new form!*
