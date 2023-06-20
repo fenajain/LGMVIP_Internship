@@ -1,4 +1,6 @@
 
+## *Welcome to the Image to Pencil-Sketch project repository*
+
 ## **Introducing Applying Sketch Filter to an Image**
 
 ### Are you interested in transforming your images into captivating sketches? Look no further!
