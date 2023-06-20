@@ -1,7 +1,7 @@
 
 # **Introducing: Applying Sketch Filter to an Image**
 
-## *Are you interested in transforming your images into captivating sketches? Look no further!*
+## Are you interested in transforming your images into captivating sketches? Look no further!
 
 In this methodology, we will explore how to apply a sketch filter to an image using the power of computer vision and image processing. By following the code provided, you'll be able to effortlessly convert any image into a sketch-like representation.
 
