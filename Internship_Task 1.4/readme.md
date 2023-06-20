@@ -1,5 +1,5 @@
 
-## **Introducing: Applying Sketch Filter to an Image**
+## **Introducing Applying Sketch Filter to an Image**
 
 ### Are you interested in transforming your images into captivating sketches? Look no further!
 
