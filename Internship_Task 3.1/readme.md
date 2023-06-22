@@ -1,6 +1,6 @@
-## *Welcome to this GitHub Repository*
+## *Welcome to Handwritten Digit Classification Repository*
 
-## **Neural Network Handwritten Digit Classification**
+## **Handwritten Digit Classification Using Neural Network**
 
 This GitHub repository contains a project focused on developing a neural network model capable of accurately classifying handwritten digits from the MNIST dataset. 
 
