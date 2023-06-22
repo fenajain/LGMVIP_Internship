@@ -1,8 +1,9 @@
+*Welcome to the GitHub repository for Next Word Prediction Algorithms!* 
+
 **Title: Next Word Prediction Algorithms - Enhancing Text Prediction and User Experience**
 
-**Introduction:**
 
-*Welcome to the GitHub repository for Next Word Prediction Algorithms!* 
+**Introduction:**
 
 This repository houses a collection of powerful algorithms designed to predict the next word in a given text sequence. Leveraging the advancements in natural language processing and machine learning techniques, these algorithms provide accurate predictions to enhance text prediction and improve user experience across various applications.
 
