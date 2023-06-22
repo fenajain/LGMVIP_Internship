@@ -19,12 +19,15 @@ The primary objectives of this repository and the next word prediction algorithm
 
 4. **Streamlined Data Analysis:** Next word prediction algorithms find applications in data analysis and information retrieval. They assist in processing large volumes of text data, enabling faster searching, filtering, and organizing of information. Search engines benefit from these algorithms by providing more accurate suggestions and enhancing search results.
 
-### **Contributing to the Repository:**
+## **Contributing to the Repository:**
 
-This repository welcomes contributions from the open-source community. If you have improvements, bug fixes, or new algorithms to contribute, please feel free to submit pull requests. Together, we can refine and expand the capabilities of next word prediction algorithms, benefiting users across various domains.
+This repository welcomes contributions from the open-source community. 
+If you have improvements, bug fixes, or new algorithms to contribute, please feel free to submit pull requests. 
+Together, we can refine and expand the capabilities of next word prediction algorithms, benefiting users across various domains.
 
-### **Conclusion:**
+## **Conclusion:**
 
-Next Word Prediction Algorithms offer powerful tools to enhance text prediction and improve user experience. By leveraging cutting-edge machine learning techniques, these algorithms streamline typing, enable efficient content generation, and simplify data analysis. Join us in exploring the algorithms, contributing to the repository, and unlocking the potential of next word prediction in various applications.
+Next Word Prediction Algorithms offer powerful tools to enhance text prediction and improve user experience. 
+By leveraging cutting-edge machine learning techniques, these algorithms streamline typing, enable efficient content generation, and simplify data analysis. Join in exploring the algorithms, contributing to the repository, and unlocking the potential of next word prediction in various applications.
 
 Let's empower text prediction and revolutionize the way we interact with language through Next Word Prediction Algorithms!
