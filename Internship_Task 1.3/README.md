@@ -6,7 +6,7 @@
 ### **Dataset Link :-** https://www.kaggle.com/competitions/kkbox-music-recommendation-challenge/data
 
 ## **Introduction**
-I'm thrilled to present my latest project on GitHub—a Music Recommendation System using TF-IDF Vectorization. Music plays a significant role in our lives, and with the abundance of songs available today, it can be overwhelming to discover new music that aligns with our preferences. This project aims to address this challenge by leveraging machine learning and natural language processing techniques to provide personalized music recommendations.
+I'm thrilled to present my latest project on GitHub - a Music Recommendation System using TF-IDF Vectorization. Music plays a significant role in our lives, and with the abundance of songs available today, it can be overwhelming to discover new music that aligns with our preferences. This project aims to address this challenge by leveraging machine learning and natural language processing techniques to provide personalized music recommendations.
 
 ## **Need for a Music Recommendation System**
 In a vast sea of songs, it's crucial to have a system that can analyze the characteristics of songs and identify similarities to suggest relevant music to users. The Music Recommendation System utilizes TF-IDF (Term Frequency-Inverse Document Frequency) vectorization to convert textual features like artist names, composers, and lyricists into numerical representations. By calculating cosine similarity between these vectors, the system can recommend similar songs based on user preferences.
