@@ -3,7 +3,9 @@
 ### **Dataset Link :-** https://drive.google.com/file/d/1luTU7xBvI7QAGPbQMxEHcgKUi9d6UeP_/view
 
 
-## Exploratory Data Analysis of Global Terrorism Dataset
+## Title : Exploratory Data Analysis of Global Terrorism Dataset
+
+## Introduction
 This repository contains an in-depth exploratory data analysis (EDA) of the Global Terrorism Dataset using the powerful data visualization libraries, Matplotlib and Seaborn, in Python. 
 The objective of this project is to gain valuable insights and uncover hidden patterns and trends within the dataset, ultimately enhancing our understanding of global terrorism.
 
