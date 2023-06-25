@@ -8,7 +8,7 @@ This repository contains an in-depth exploratory data analysis (EDA) of the Glob
 The objective of this project is to gain valuable insights and uncover hidden patterns and trends within the dataset, ultimately enhancing our understanding of global terrorism.
 
 
-## Objective
+## Objectives
 The primary objective of this project is to perform a comprehensive EDA on the Global Terrorism Dataset. By leveraging the capabilities of Matplotlib and Seaborn, we aim to create meaningful visualizations that will help us gain insights into various aspects of global terrorism. Through this analysis, we strive to identify trends, hotspots, attack types, and other significant patterns that can contribute to the field of counter-terrorism and security studies.
 
 ## Key Takeaways
